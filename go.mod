@@ -1,4 +1,4 @@
-module quicx
+module github.com/vimcoders/quicx
 
 go 1.23.2
 
